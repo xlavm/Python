@@ -36,3 +36,6 @@ Visualize malla en estructura metalica
 Visualize malla en estructura metalica a color
 
 ![result-mallametalicaacolor](docs/result-mallametalicaacolor.png)
+
+
+More for graphics: https://www.youtube.com/watch?v=AkhpoE6wqyQ&ab_channel=DavidArmend%C3%A1riz
