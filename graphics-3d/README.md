@@ -2,7 +2,7 @@
 
 
 ## Procedure
-
+Include the function or the mathematical formulas for the graphic
 
 ## Get Started
 > Requirements: Python 3 Installed
